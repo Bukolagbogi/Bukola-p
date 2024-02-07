@@ -16,11 +16,11 @@
 - Successfully implemented a new customer relationship management system, resulting in a 30% reduction in response time to customer inquiries.
 
 ** Compliance Data analyst @ BCD Nigeria (_January 2019 - May 2020_)**
--Demonstrated a strong understanding of company policies and procedures, resulting in a 98% compliance rate when resolving customer 
+- Demonstrated a strong understanding of company policies and procedures, resulting in a 98% compliance rate when resolving customer 
  complaints, cancellations, and refund requests. 
--Coordinated details for corporate and business trips, including booking transportation and coordinating schedules for conferences and 
+- Coordinated details for corporate and business trips, including booking transportation and coordinating schedules for conferences and 
  meetings. 
--Managed portfolio of Global organizations such as Heineken, Shell, Sahara Energy, Dow and Dupont + High Net Worth clients which increased 
+- Managed portfolio of Global organizations such as Heineken, Shell, Sahara Energy, Dow and Dupont + High Net Worth clients which increased 
  revenue to 85% in 12 months.
--Achieved a 95% reduction of agency debit memos through effective monitoring of ticket compliance in accordance with all airline rules, 
+- Achieved a 95% reduction of agency debit memos through effective monitoring of ticket compliance following all airline rules, 
  policies, commissions, and net fare deals for ticket issuance and refunds.
