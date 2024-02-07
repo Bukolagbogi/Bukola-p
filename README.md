@@ -15,7 +15,8 @@
 - Managed a portfolio of over 2,000 affiliates and B2B accounts, generating over $3 million in sales revenue annually. 
 - Successfully implemented a new customer relationship management system, resulting in a 30% reduction in response time to customer inquiries.
 
-** Compliance Data analyst @ BCD Nigeria (_January 2019 - May 2020_)**
+
+**Compliance data Analyst @ BCD Nigeria (_January 2019 - May 2020_)**
 - Demonstrated a strong understanding of company policies and procedures, resulting in a 98% compliance rate when resolving customer 
  complaints, cancellations, and refund requests. 
 - Coordinated details for corporate and business trips, including booking transportation and coordinating schedules for conferences and 
