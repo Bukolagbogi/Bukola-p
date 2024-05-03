@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills:  SQL, PowerBi, Excel
+#### Technical Skills: SQL, PowerBi, Excel
 
 ## Education						       		
 - M.S.c, International Business	| The University of Lincoln United Kingdom (_October 2023_)	 			        		
